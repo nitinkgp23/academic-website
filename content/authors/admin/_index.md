@@ -1,52 +1,18 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Nitin Choudhary
+role: Software Developer
+avatar_filename: pp.jpg
+bio: I am a software developer with a passion to teach.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - File Systems
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
@@ -55,23 +21,32 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+education:
+  courses:
+    - course: Mathematics and Computing
+      institution: Indian Institute of Technology, Kharagpur
+      year: 2023
+email: ""
+superuser: true
 highlight_name: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Software Developer at [Cohesity](https://www.cohesity.com/), working in the field of Distributed File Systems. I majored in Mathematics and Computing, from Indian Institute of Technology, Kharagpur, India.\
+\
+During my internships at college, my interests typically lied in the field of Machine Learning. I worked on a project during my internship at [Naver Labs Europe](https://europe.naverlabs.com/) which deals with understanding the layout of structured images such as those of Restaurant Menus. My primary focus was on applying Machine Learning algorithms on structured data, such as graphs. I was being supervised by [Herve Dejean](https://europe.naverlabs.com/people_user/Herve-Dejean/) and [Ioan Calapodescu](https://europe.naverlabs.com/people_user/Ioan-Calapodescu/).\
+\
+I also worked at [University of Alberta](https://www.ualberta.ca/), supervised by [Dr. Russell Greiner](https://rgreiner6.wixsite.com/greiner), where I worked on building ML models for detecting Schizophrenia, from brain's 4D-fMRI scans.\
+\
+In addition to my interests in ML, I have also been a Google Summer of Code developer at [Sunpy](https://sunpy.org/), an open-source organisation dedicated to developing tools for Solar Physics. I was supervised by [Stuart Mumford](http://stuartmumford.uk/) where I worked on developing a better interface for JSOC Client, used to download astronomical data from JSOC servers. I have also been an active member at [Kharagpur Open Source Society](https://kossiitkgp.org/), a club at my university for promoting love and use of Open Source.\
+\
+For a more formal account of my experience, see my [Curriculum Vitae](https://nitinkgp23.github.io/assets/CV_Nitin.pdf).\
+\
+In my free time, I love to [read](https://www.goodreads.com/user/show/64258644-nitin-choudhary) and play.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+<!--EndFragment-->
