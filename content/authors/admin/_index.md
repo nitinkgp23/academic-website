@@ -1,7 +1,7 @@
 ---
 title: Nitin Choudhary
 role: Software Developer
-avatar_filename: pp.jpg
+avatar_filename: avatar.jpg
 bio: I am a software developer with a passion to teach.
 interests:
   - File Systems
